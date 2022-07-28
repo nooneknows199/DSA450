@@ -149,36 +149,6 @@
             "Topic:": "Array",
             "Problem: ": "Chocolate Distribution problem",
             "URL": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0"
-        },
-        {
-            "Topic:": "Array",
-            "Problem: ": "Smallest Subarray with sum greater than a given value",
-            "URL": "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0"
-        },
-        {
-            "Topic:": "Array",
-            "Problem: ": "Three way partitioning of an array around a given value",
-            "URL": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1"
-        },
-        {
-            "Topic:": "Array",
-            "Problem: ": "Minimum swaps required bring elements less equal K together",
-            "URL": "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0"
-        },
-        {
-            "Topic:": "Array",
-            "Problem: ": "Minimum no. of operations required to make an array palindrome",
-            "URL": "https://practice.geeksforgeeks.org/problems/palindromic-array/0"
-        },
-        {
-            "Topic:": "Array",
-            "Problem: ": "Median of 2 sorted arrays of equal size",
-            "URL": "https://practice.geeksforgeeks.org/problems/find-the-median0527/1"
-        },
-        {
-            "Topic:": "Array",
-            "Problem: ": "Median of 2 sorted arrays of different size",
-            "URL": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
         }
     ]
 }
